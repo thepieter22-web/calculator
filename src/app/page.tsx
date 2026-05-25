@@ -1,0 +1,1 @@
+export default function Page(){return <main style={{padding:40}}><h1>Simulator werkt ✅</h1></main>}
